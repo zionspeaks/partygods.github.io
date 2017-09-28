@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": "page3.html",
+    "name": "PARTYGODSMUSIC",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 112,
     "versionPublish": "4.3.0",
@@ -34,10 +34,10 @@
         "#ff0b0b"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/pgblack-128x72-2.png",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107200856-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments)};\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107200856-1');\r\n</script>",
     "html_before": "",
     "headbody": "",
     "botbody": ""
