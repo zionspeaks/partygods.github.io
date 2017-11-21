@@ -16,14 +16,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Toe_the_Lineless';
+  font-family: 'Toe-the-Lineless';
   font-size: 4.2rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.72rem;
 }
 .display-2 {
-  font-family: 'Toe_the_Lineless';
+  font-family: 'Toe-the-Lineless';
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -37,14 +37,14 @@ body {
   font-size: 4.8rem;
 }
 .display-5 {
-  font-family: 'Toe_the_Lineless';
+  font-family: 'Toe-the-Lineless';
   font-size: 1.6rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.56rem;
 }
 .display-7 {
-  font-family: 'Toe_the_Lineless';
+  font-family: 'Toe-the-Lineless';
   font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
@@ -605,7 +605,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Toe_the_Lineless';
+  font-family: 'Toe-the-Lineless';
   font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1406,7 +1406,7 @@ body {
 .cid-qwjdusjZIr {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qwjdusjZIr .content-slider {
   display: flex;
@@ -1663,7 +1663,7 @@ body {
   background: transparent !important;
 }
 .cid-qwjdusjZIr .image_wrapper {
-  height: 610px;
+  height: 700px;
   width: 100%;
   position: relative;
   display: inline-block;
